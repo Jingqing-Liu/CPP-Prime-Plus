@@ -1,0 +1,5 @@
+# Exclude the "Appendix files and source code" directory
+Appendix files and source code/
+
+# Exclude the .vscode directory
+.vscode/
