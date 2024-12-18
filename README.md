@@ -16,6 +16,10 @@ The purpose of this project is to read and study the "C++ Primer Plus, Sixth Edi
 
 Each chapter from the book will have its own directory named `Chapter_X` where `X` represents the chapter number.
 
+- `notes` - My notes from the chapter.
+- `exercises` - Directory containing solutions to the exercises given in the chapter.
+
+
 ## Contributing
 
 While this is a personal study project, I welcome any suggestions or corrections from other readers and C++ enthusiasts. Feel free to open an issue or submit a pull request if you notice mistakes or have alternative solutions to the exercises.
